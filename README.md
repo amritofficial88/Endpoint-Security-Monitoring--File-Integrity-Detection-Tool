@@ -5,4 +5,4 @@ A modular GUI based local file integrity monitor built in python The entire code
 ![Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iNeKFU667ndi5RytyYly6Q.png)
 
 *Created By: Amritangshu Dey*
-*During 3rd Year - EPICS Project*
+*(During 3rd Year - PE Project)*
